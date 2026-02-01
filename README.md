@@ -1,14 +1,17 @@
-﻿# DC-Voltage-Sensor
+﻿# DC Voltage Sensor
 
-Electronic hardware module designed using **Altium Designer**.
+Analog voltage measurement module.
+
+## Function
+Scales high voltage to MCU-safe level.
+
+## Key Specifications
+- Divider: R1/R2
+- Protection: Zener 1N4733A
+- Output: Analog pin header
 
 ## Hardware Preview
 ![Preview](preview.png)
 
-## Contents
-- Schematic
-- PCB Layout
-- 3D View
-
 ---
-Designed by **HOANG LE TRUNG KIEN**
+Designed by HOANG LE TRUNG KIEN
